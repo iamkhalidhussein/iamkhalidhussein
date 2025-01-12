@@ -41,7 +41,7 @@ Web Application Developer and Programming Enthusiast. Ready to Face New Challeng
 
 ## 📬 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khaliddev) or [Twitter](https://x.com/khalidwebdev). I’m always open to discussing new projects or opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khaliddev) or [Twitter](https://x.com/khalidhusseinx). I’m always open to discussing new projects or opportunities!
 
 ---
 
