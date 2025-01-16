@@ -72,12 +72,17 @@ I’m always diving into new technologies and frameworks to stay ahead of the cu
 Here’s a snapshot of my coding journey so far:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalid09dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khalid09dev&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalid09dev&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid09dev&layout=compact&theme=radical" alt="Top Languages" width="40%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-XX-blue?style=for-the-badge" alt="Total Repos">
+  <img src="https://img.shields.io/badge/Total%20Commits-XX-green?style=for-the-badge" alt="Total Commits">
 </p>
 
 ---
