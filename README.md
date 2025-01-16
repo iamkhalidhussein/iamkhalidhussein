@@ -1,13 +1,17 @@
 # Hi there, I'm Khalid 👋
 
-Web Application Developer and Programming Enthusiast. Ready to Face New Challenges.
+**Web Application Developer | Programming Enthusiast | Lifelong Learner**
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building user-friendly interfaces and enhancing user experiences.
-- 🌱 I’m currently learning advanced React frameworks Next.JS
-- 💬 Ask me about HTML, CSS, JavaScript, React and front-end development best practices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khaliddev) | [Twitter](https://x.com/khalidwebdev)
+I'm a passionate **Web Application Developer** with a strong focus on building **user-friendly interfaces** and enhancing **user experiences**. I thrive on solving complex problems and turning ideas into functional, elegant, and scalable web applications. I'm always eager to embrace new challenges and continuously expand my skill set.
+
+- 🔭 **Currently working on:** Developing intuitive and responsive web interfaces that prioritize user experience.
+- 🌱 **Currently learning:** Advanced React frameworks, including **Next.js**, and exploring **Progressive Web Apps (PWAs)**.
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, and front-end development best practices.
+- 📫 **How to reach me:**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khaliddev)  
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/khalidwebdev)
 
 ## 🛠️ Technologies & Tools
 
@@ -32,32 +36,19 @@ Web Application Developer and Programming Enthusiast. Ready to Face New Challeng
 
 ## 🌱 Currently Exploring
 
-- Building projects with React and Redux.
-- Learning about Progressive Web Apps (PWAs).
-- Exploring UI/UX design principles.
-- Node.js: Getting familiar with server-side JavaScript.
-- Express.js: Learning to build web applications and APIs.
-- MongoDB: Exploring NoSQL databases and data modeling.
+- **React & Redux:** Building dynamic and state-driven applications.
+- **Progressive Web Apps (PWAs):** Creating fast, reliable, and engaging web experiences.
+- **UI/UX Design Principles:** Enhancing my understanding of design to create visually appealing and user-centric interfaces.
+- **Node.js & Express.js:** Developing server-side applications and RESTful APIs.
+- **MongoDB:** Exploring NoSQL databases and data modeling for scalable applications.
 
 ## 📬 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khaliddev) or [Twitter](https://x.com/khalidhusseinx). I’m always open to discussing new projects or opportunities!
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khaliddev)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/khalidwebdev)
 
 ---
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects! 🚀
-
-<!--
-**Khalid09dev/khalid09dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
